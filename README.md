@@ -3,7 +3,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Profesional+de+Soporte+T%C3%A9cnico;Desarrollador+Web+Frontend;Aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Profesional+de+Soporte+T%C3%A9cnico;Desarrollador+Web+Frontend;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -88,6 +88,15 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
 </div>
 </details>
 
+<!-- Certifications -->
+## 🎓 Certificaciones y Cursos
+
+- 🤖 Inteligencia Artificial Avanzada
+- 📊 Microsoft Excel Especialista
+- 🚀 GitHub Copilot Master
+- 📈 Power BI Data Analytics
+- 🌟 Google Gemini Expert
+
 <!-- GitHub Stats -->
 ## 📊 Estadísticas de GitHub
 
@@ -99,71 +108,6 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCE&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-## 📜 Certificaciones
-
-<details>
-<summary>🎓 Mis Certificaciones Profesionales</summary>
-<br>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <img🤖/><br>
-        <sub><b>Inteligencia Artificial</b></sub><br>
-        <a href="file:///T:/Cursos/Curso%20Germini%20-%20SantanderAcademy/Certificado%20Gemini%20Santander.pdf" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Certificado-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
-        </a>
-      </td>
-      <td align="center" width="200">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40"/><br>
-        <sub><b>Microsoft Excel</b></sub><br>
-        <a href="URL_DEL_PDF_EXCEL" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Certificado-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-        </a>
-      </td>
-      <td align="center" width="200">
-        <img src="https://cdn-icons-png.flaticon.com/512/4712/4712139.png" width="40"/><br>
-        <sub><b>GitHub Copilot</b></sub><br>
-        <a href="URL_DEL_PDF_COPILOT" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Certificado-181717?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="40"/><br>
-        <sub><b>Power BI</b></sub><br>
-        <a href="URL_DEL_PDF_POWERBI" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Certificado-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-        </a>
-      </td>
-      <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/4616/4616809.png" width="40"/><br>
-        <sub><b>Google Gemini</b></sub><br>
-        <a href="URL_DEL_PDF_GEMINI" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Certificado-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-        </a>
-      </td>
-      <td align="center">
-        <img src="https://cdn-icons-png.flaticon.com/512/8645/8645627.png" width="40"/><br>
-        <sub><b>Más Certificaciones</b></sub><br>
-        <a href="URL_DE_TU_PORTFOLIO" target="_blank">
-          <img src="https://img.shields.io/badge/Ver_Más-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-> **Nota**: Haz clic en "Ver Certificado" para visualizar el documento PDF de cada certificación.
-
-</details>
-
-[Rest of the content remains unchanged...]
 
 <!-- Contact -->
 ## 📫 Contacto
@@ -178,4 +122,9 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
   <a href="https://www.instagram.com/1nikit0_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NicolasCE&color=blueviolet&style=flat-square&label=Visitas+al+Perfil" alt="Profile views" />
 </p>
