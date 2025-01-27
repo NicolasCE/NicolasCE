@@ -110,9 +110,9 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
   <table>
     <tr>
       <td align="center" width="200">
-        <img src="https://cdn-icons-png.flaticon.com/512/1693/1693746.png" width="40"/><br>
+        <img🤖/><br>
         <sub><b>Inteligencia Artificial</b></sub><br>
-        <a href="URL_DEL_PDF_IA" target="_blank">
+        <a href="file:///T:/Cursos/Curso%20Germini%20-%20SantanderAcademy/Certificado%20Gemini%20Santander.pdf" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Certificado-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/>
         </a>
       </td>
