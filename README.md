@@ -98,7 +98,7 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
 - 📊 Suite Microsoft Office y herramientas empresariales
 - 🌐 Control de version en GitHub y instalacion Git
 
-- *Proximas tecnologias a desarrollar*
+  **PROXIMAS TECNOLOGIAS A DESARROLLAR Y APRENDER**
 - Firebase ✨
 - Vue.js ✨
 - Tailwind.css ✨
