@@ -83,19 +83,6 @@ git push origin main     # Subir a la rama main
   <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&h=300&q=80" alt="Banner" width="100%" style="border-radius: 10px; margin-top: 20px;">
 </div>
 
-<!-- Badges -->
-<div align="center" style="margin-top: 20px;">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Soporte_Técnico-Expert-brightgreen?style=flat-square&logo=windows&logoColor=white" alt="Soporte Técnico" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Help_Desk-★★★★★-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Help Desk" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Desarrollo_Web-★★★★☆-orange?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Desarrollo Web" />
-  </a>
-</div>
-
 <!-- About Me -->
 ## 👨‍💻 Sobre Mí
 
