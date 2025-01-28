@@ -1,28 +1,56 @@
 <!-- Title and Banner -->
-<h1 align="center">¡Hola! 👋 Soy Nicolás Contreras Elgueta</h1>
+# Hi there! 👋 I'm Nicolás Contreras Elgueta
 
-> [!NOTE] 🤗
-> Comandos esenciales para subir proyectos
-> - git init
-> - git add .
-> - git branch -M main
-> - git commit -m "Aqui va tu texto de ejemplo: fechas, cambios realizados, avances, etc".
-> - git remote: Generalmente es el que dice remote con la url, copias y pegas.
-> - git push origin main
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=1000" alt="Programming Banner" width="800" height="300" style="object-fit: cover;" />
+</div>
 
+## 📚 Essential Git Commands
 
-> [!TIP] 😉
-> Cuando tengas avanzado el proyecto y quieras actualizarlo en tu github, sigue estos comandos:
-> git add .
-> git commit -m "Aqui va tu texto de ejemplo: fechas, cambios realizados, avances, etc"
-> git push origin main
+### Initial Setup
+```bash
+git init                  # Initialize a new repository
+git add .                # Stage all files
+git branch -M main       # Rename branch to main
+git commit -m "message"  # Commit with descriptive message
+git remote add origin <url>  # Add remote repository
+git push origin main     # Push to main branch
+```
 
-> [!IMPORTANT]
-> Al programar con visual studio, necesitaras algunas extensiones / principalmente estas uso yo 👀:
-> 
+### Updating Your Project
+```bash
+git add .                # Stage changes
+git commit -m "message"  # Commit with descriptive message
+git push origin main     # Push to main branch
+```
 
-> [!WARNING] 🥰
-> Ten cuidado con borrar proyectos
+## 🛠️ Recommended VS Code Extensions
+
+- **ESLint** - JavaScript linting
+- **Prettier** - Code formatting
+- **GitLens** - Git integration
+- **Live Server** - Local development server
+- **Auto Rename Tag** - HTML/XML tag renaming
+- **Color Highlight** - Color preview
+
+## ⚠️ Important Notes
+
+- Always create a backup before deleting projects
+- Use version control to track changes
+- Keep your commits atomic and well-documented
+- Review changes before pushing to remote
+
+## 🤝 Connect with Me
+
+- GitHub: [Your GitHub Profile]
+- LinkedIn: [Your LinkedIn Profile]
+- Portfolio: [Your Portfolio Website]
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ by Nicolás Contreras Elgueta</sub>
+</div>
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Profesional+de+Soporte+T%C3%A9cnico;Desarrollador+Web+Frontend;Aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG" /></a>
