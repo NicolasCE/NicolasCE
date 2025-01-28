@@ -72,20 +72,29 @@ git push origin main     # Subir a la rama main
 ---
 
 <!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Profesional+de+Soporte+T%C3%A9cnico;Desarrollador+Web+Frontend;Aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG" /></a>
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Profesional+de+Soporte+Técnico;Desarrollador+Web+Frontend;Aprendiendo+nuevas+tecnologías" alt="Typing SVG" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&h=300&q=80" alt="Banner" width="100%">
-</p>
+<!-- Banner -->
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1200&h=300&q=80" alt="Banner" width="100%" style="border-radius: 10px; margin-top: 20px;">
+</div>
 
 <!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Soporte_Técnico-★★★★★-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Help_Desk-★★★★★-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Desarrollo_Web-★★★★☆-orange?style=for-the-badge" />
-</p>
+<div align="center" style="margin-top: 20px;">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Soporte_Técnico-Expert-brightgreen?style=flat-square&logo=windows&logoColor=white" alt="Soporte Técnico" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Help_Desk-★★★★★-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Help Desk" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Desarrollo_Web-★★★★☆-orange?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Desarrollo Web" />
+  </a>
+</div>
 
 <!-- About Me -->
 ## 👨‍💻 Sobre Mí
