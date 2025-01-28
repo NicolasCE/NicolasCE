@@ -88,11 +88,11 @@ git push origin main     # Subir a la rama main
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-Soy un profesional de TI especializado en soporte técnico y desarrollo web, con una sólida experiencia en:
+Soy un profesional de TI especializado en soporte técnico y desarrollo web, con conocimientos en:
 
 - 🖥️ Soporte técnico presencial y remoto
 - 🌐 Configuración de redes e impresoras IP
-- 🤖 Inteligencia Artificial 
+- 🤖 Inteligencia Artificial (ChatGPT, DeepSeek, Gemini, Copilot, entre otras)
 - 💻 Instalación y configuración de sistemas operativos
 - 🛠️ Mantenimiento y optimización de equipos
 - 📊 Suite Microsoft Office y herramientas empresariales
