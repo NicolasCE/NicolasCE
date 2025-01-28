@@ -65,9 +65,9 @@ git push origin main     # Subir a la rama main
 
 ## 🤝 Conéctate Conmigo
 
-- GitHub: [https://github.com/NicolasCE]
-- LinkedIn: [https://www.linkedin.com/in/nicol%C3%A1s-contreras-elgueta-055188168/]
-- Instagram Personal: [https://www.instagram.com/1nikit0_/]
+- GitHub: https://github.com/NicolasCE
+- LinkedIn: https://www.linkedin.com/in/nicol%C3%A1s-contreras-elgueta-055188168/
+- Instagram Personal: https://www.instagram.com/1nikit0_/
 
 ---
 
