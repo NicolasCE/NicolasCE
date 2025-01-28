@@ -3,12 +3,12 @@
 
 > [!NOTE] 🤗
 > Comandos esenciales para subir proyectos
-> git init
-> git add .
-> git branch -M main
-> git commit -m "Aqui va tu texto de ejemplo: fechas, cambios realizados, avances, etc".
-> git remote: Generalmente es el que dice remote con la url, copias y pegas.
-> git push origin main
+> - git init
+> - git add .
+> - git branch -M main
+> - git commit -m "Aqui va tu texto de ejemplo: fechas, cambios realizados, avances, etc".
+> - git remote: Generalmente es el que dice remote con la url, copias y pegas.
+> - git push origin main
 
 
 > [!TIP] 😉
