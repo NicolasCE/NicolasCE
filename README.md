@@ -6,7 +6,7 @@
 
 ## ⚠️ Atencion: Los comandos de "Configuracion Inicial" y "Actualizando Tu Proyecto" son realizados en entorno de git bash
 
-- **Tutorial youtube instalacion de git con consola** [https://www.youtube.com/watch?v=jdXKwLNUfmg]
+- **Tutorial youtube instalacion de git con consola** https://www.youtube.com/watch?v=jdXKwLNUfmg
 
 ## ⚠️¿Como utilizar correctamente Git Consola? 🤖
 Por ejemplo: si tenemos una carpeta llamada "Mi_Proyecto" y tenemos todo lo basico que seria, carpetas de:
