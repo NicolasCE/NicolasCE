@@ -1,6 +1,16 @@
 <!-- Title and Banner -->
 <h1 align="center">¡Hola! 👋 Soy Nicolás Contreras Elgueta</h1>
 
+> [!NOTE]
+> Notas especial
+>
+> [!TIP]
+> TIPS
+> [!IMPORTANT]
+> IMPORTANTE
+>
+> [!WARNING]
+> PELIGRO
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Profesional+de+Soporte+T%C3%A9cnico;Desarrollador+Web+Frontend;Aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG" /></a>
