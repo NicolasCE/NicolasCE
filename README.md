@@ -9,14 +9,14 @@
 - **Tutorial youtube instalacion de git con consola** https://www.youtube.com/watch?v=jdXKwLNUfmg
 
 ## ⚠️¿Como utilizar correctamente Git Consola? 🤖
-Por ejemplo: si tenemos una carpeta llamada "Mi_Proyecto" y tenemos todo lo basico que seria, carpetas de:
+🤖 Por ejemplo: si tenemos una carpeta llamada "Mi_Proyecto" y tenemos todo lo basico que seria, carpetas de:
 - **node_modules**
 - **src**
 - **public**
 - **paquetes.json**
 - **readme**
 
-Ahora bien, ustedes tendrian que posicionarse donde esta la carpeta en si, me explico
+❤ Ahora bien, ustedes tendrian que posicionarse donde esta la carpeta en si, me explico
 - Windows + R: abren el explorador de archivos.
 - Buscan su carpeta donde tienen su proyecto.
 - se posicionan donde tienen todas sus carpetas principales.
