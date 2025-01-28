@@ -1,56 +1,76 @@
-<!-- Title and Banner -->
-# Hi there! 👋 I'm Nicolás Contreras Elgueta
+# ¡Hola! 👋 Soy Nicolás Contreras Elgueta
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=1000" alt="Programming Banner" width="800" height="300" style="object-fit: cover;" />
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=1000" alt="Banner de Programación" width="800" height="300" style="object-fit: cover;" />
 </div>
 
-## 📚 Essential Git Commands
+## ⚠️ Atencion: Los comandos de "Configuracion Inicial" y "Actualizando Tu Proyecto" son realizados en entorno de git bash
 
-### Initial Setup
+- **Tutorial youtube instalacion de git con consola** [https://www.youtube.com/watch?v=jdXKwLNUfmg]
+
+## ⚠️¿Como utilizar correctamente Git Consola? 🤖
+Por ejemplo: si tenemos una carpeta llamada "Mi_Proyecto" y tenemos todo lo basico que seria, carpetas de:
+- **node_modules**
+- **src**
+- **public**
+- **paquetes.json**
+- **readme**
+
+Ahora bien, ustedes tendrian que posicionarse donde esta la carpeta en si, me explico
+- Windows + R: abren el explorador de archivos.
+- Buscan su carpeta donde tienen su proyecto.
+- se posicionan donde tienen todas sus carpetas principales.
+- Hacen click derecho y **si instalaron todo correctamente (GIT)**.
+- Entrar donde dice "Open Git Bash Here".
+- Como ultimo paso pueden comenzar a aplicar los **👇 Comandos esenciales de Git 👇**
+
+
+## 📚 Comandos Esenciales de Git 
+
+### Configuración Inicial
 ```bash
-git init                  # Initialize a new repository
-git add .                # Stage all files
-git branch -M main       # Rename branch to main
-git commit -m "message"  # Commit with descriptive message
-git remote add origin <url>  # Add remote repository
-git push origin main     # Push to main branch
+git init                  # Inicializar un nuevo repositorio
+git add .                # Preparar todos los archivos
+git branch -M main       # Renombrar rama a main
+git commit -m "mensaje"  # Commit con mensaje descriptivo
+git remote add origin <url>  # Añadir repositorio remoto
+git push origin main     # Subir a la rama main
 ```
 
-### Updating Your Project
+### Actualizando Tu Proyecto
 ```bash
-git add .                # Stage changes
-git commit -m "message"  # Commit with descriptive message
-git push origin main     # Push to main branch
+git add .                # Preparar cambios
+git commit -m "mensaje"  # Commit con mensaje descriptivo
+git push origin main     # Subir a la rama main
 ```
 
-## 🛠️ Recommended VS Code Extensions
+## 🛠️ Extensiones Recomendadas para VS Code
 
-- **ESLint** - JavaScript linting
-- **Prettier** - Code formatting
-- **GitLens** - Git integration
-- **Live Server** - Local development server
-- **Auto Rename Tag** - HTML/XML tag renaming
-- **Color Highlight** - Color preview
+- **ESLint** - Análisis de código JavaScript
+- **Prettier** - Formateo de código
+- **GitLens** - Integración con Git
+- **Live Server** - Servidor de desarrollo local
+- **Auto Rename Tag** - Renombrado de etiquetas HTML/XML
+- **Color Highlight** - Vista previa de colores
+- **GitHub Copilot** - Chat inteligente por copilot IA
+- **vscode-pets** - Mascotas que te acompañen en tu entorno
+- **vscode-icons** - Iconos representativos y llamativos en carpetas
 
-## ⚠️ Important Notes
+## ⚠️ Notas Importantes
 
-- Always create a backup before deleting projects
-- Use version control to track changes
-- Keep your commits atomic and well-documented
-- Review changes before pushing to remote
+- Siempre crea una copia de seguridad antes de eliminar proyectos
+- Utiliza control de versiones para rastrear cambios
+- Mantén tus commits atómicos y bien documentados
+- Revisa los cambios antes de subirlos al repositorio remoto
 
-## 🤝 Connect with Me
+## 🤝 Conéctate Conmigo
 
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
-- Portfolio: [Your Portfolio Website]
+- GitHub: [https://github.com/NicolasCE]
+- LinkedIn: [https://www.linkedin.com/in/nicol%C3%A1s-contreras-elgueta-055188168/]
+- Instagram Personal: [https://www.instagram.com/1nikit0_/]
 
 ---
 
-<div align="center">
-  <sub>Built with ❤️ by Nicolás Contreras Elgueta</sub>
-</div>
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Profesional+de+Soporte+T%C3%A9cnico;Desarrollador+Web+Frontend;Aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG" /></a>
@@ -178,3 +198,9 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NicolasCE&color=blueviolet&style=flat-square&label=Visitas+al+Perfil" alt="Profile views" />
 </p>
+
+---
+
+<div align="center">
+  <sub>Construido con ❤️ por Nicolás Contreras Elgueta</sub>
+</div>
