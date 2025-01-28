@@ -183,14 +183,14 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
 ## 📫 ¡Contáctame! 👋
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" style="text-decoration: none;">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="width: 50px; height: 50px; margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'" />
   </a>
-  <a href="mailto:TU_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:TU_EMAIL" style="text-decoration: none;">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" style="width: 50px; height: 50px; margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'" />
   </a>
-  <a href="https://www.instagram.com/1nikit0_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/1nikit0_/" style="text-decoration: none;">
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" style="width: 50px; height: 50px; margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'" />
   </a>
 </p>
 
@@ -198,12 +198,6 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
   ¡No dudes en contactarme! 📩 <br>
   Estoy siempre abierto a nuevas oportunidades, colaboraciones o simplemente charlar. 😄✨
 </p>
-<!-- Footer -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NicolasCE&color=blueviolet&style=flat-square&label=Visitas+al+Perfil" alt="Profile views" />
-</p>
-
----
 
 <div align="center">
   <sub>Construido con ❤️ por Nicolás Contreras Elgueta</sub>
