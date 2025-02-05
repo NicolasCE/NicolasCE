@@ -39,7 +39,8 @@ git push origin main     # Subir a la rama main
 
 ### Actualizando Tu Proyecto
 ```bash
-git add .                # Preparar cambios
+git status               # Revision actual de proyecto en el que se encuentra
+git add .                # Añadir cambios existentes
 git commit -m "mensaje"  # Commit con mensaje descriptivo
 git push origin main     # Subir a la rama main
 ```
