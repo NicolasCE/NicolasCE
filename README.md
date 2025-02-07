@@ -185,7 +185,7 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
 ## 📫 ¡Contáctame! 👋
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO_LINKEDIN" style="text-decoration: none;">
+  <a href="[https://linkedin.com/in/TU_USUARIO_LINKEDIN](https://www.linkedin.com/in/nicol%C3%A1s-contreras-elgueta-055188168/)" style="text-decoration: none;">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="width: 50px; height: 50px; margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'" />
   </a>
   <a href="mailto:TU_EMAIL" style="text-decoration: none;">
