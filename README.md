@@ -168,6 +168,7 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
 - 🚀 GitHub Copilot Master
 - 📈 Power BI Data Analytics
 - 🌟 Google Gemini Expert
+- 🚀 Eidos Global y Microsoft: Curso en linea | Generacion IA
 
 <!-- GitHub Stats -->
 ## 📊 Estadísticas de GitHub
@@ -185,10 +186,10 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
 ## 📫 ¡Contáctame! 👋
 
 <p align="center">
-  <a href="[https://linkedin.com/in/TU_USUARIO_LINKEDIN](https://www.linkedin.com/in/nicol%C3%A1s-contreras-elgueta-055188168/)" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/nicol%C3%A1s-contreras-elgueta-055188168/" style="text-decoration: none;">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" style="width: 50px; height: 50px; margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'" />
   </a>
-  <a href="mailto:TU_EMAIL" style="text-decoration: none;">
+  <a href="mailto:nicontreras569@gmail.com" style="text-decoration: none;">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" style="width: 50px; height: 50px; margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-10px)'" onmouseout="this.style.transform='translateY(0)'" />
   </a>
   <a href="https://www.instagram.com/1nikit0_/" style="text-decoration: none;">
