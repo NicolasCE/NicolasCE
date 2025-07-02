@@ -99,11 +99,6 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
 - 📊 Suite Microsoft Office y herramientas empresariales
 - 🌐 Control de version en GitHub y instalacion Git
 
-  **PROXIMAS TECNOLOGIAS A DESARROLLAR Y APRENDER**
-- Firebase ✨
-- Vue.js ✨
-- Tailwind.css ✨
-
 <!-- Technical Skills with Logos -->
 ## 🛠️ Habilidades Técnicas
 
@@ -199,7 +194,6 @@ Soy un profesional de TI especializado en soporte técnico y desarrollo web, con
 
 <p align="center">
   ¡No dudes en contactarme! 📩 <br>
-  Estoy siempre abierto a nuevas oportunidades, colaboraciones o simplemente charlar. 😄✨
 </p>
 
 <div align="center">
